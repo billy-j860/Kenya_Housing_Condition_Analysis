@@ -10,7 +10,7 @@ Therefore the objectives for this project are four
   4. To explore relationships between housing quality and socio-economic factors
 ## Dataset and tools
 The dataset can be accessed via Financial Sector Deepening Kenya (FSD Kenya): https://www.fsdkenya.org/research-and-publications/datasets/kenya-financial-diaries-2012-2013-socio-economic-and-demographic-datasets/
-## Tools Used
+### Tools Used
 - SQL Server Management Studio (SSMS) for data manipulation and analysis
 - Power BI for data visualization and dashboard creation
 ## Methodology
