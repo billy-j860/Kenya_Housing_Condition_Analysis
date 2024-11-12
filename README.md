@@ -29,6 +29,47 @@ The dataset can be accessed via Financial Sector Deepening Kenya (FSD Kenya): ht
 - `/powerbi_reports`: Power BI report files
 - `/data`: Information about the dataset (Note: Actual data files are not included due to privacy concerns)
 - `/docs`: Additional documentation and findings
+## Key Insights
+### Analysis (69.28% Rural, 29.69% Urban):
+- Reflects Kenya's ongoing urbanization challenges
+- Aligns with national rural-urban migration patterns
+- Shows continued rural population dominance
+- Similar to Kenya's current demographic where majority still live in rural areas
+### Access to Basic Amenties (17.06%)
+Critical Infrastructure Gaps:
+- Low access rate reflects national infrastructure challenges
+- Mirrors Kenya's utility access challenges especially in rural areas
+- Aligns with current government focus on:
+  * Last Mile Connectivity Program (electricity)
+  * Rural Electrification Program
+  * Water and Sanitation Projects
+### Housing Conditions
+Maintenance Patterns:
+- Good condition of majority houses reflects:
+  * Growing middle class in Kenya
+  * Improved construction standards
+  * Better building materials accessibility
+- Maintenance needs imply:
+  * Cost of living challenges
+  * Income disparities
+  * Need for housing policy implementation
+### Regional Disparities
+Urban-Rural Divide:
+- Reflects current national challenges:
+  * Urban areas: Better infrastructure but overcrowding
+  * Rural areas: More space but limited amenities
+- Highlights need for:
+  * Balanced regional development
+  * Rural infrastructure improvement
+  * Urban planning and development
+## Implication and Recomendation
+Current Context:
+- Aligns with Kenya Vision 2030 goals
+- Supports Big Four Agenda (Affordable Housing)
+- Shows areas needing intervention:
+  * Rural infrastructure development
+  * Urban housing quality improvement
+  * Basic amenities expansion
 
 
 
